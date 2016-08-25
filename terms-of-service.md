@@ -52,7 +52,7 @@ If you have any question about the Terms, please contact us at hello@inviterobot
 
 ## Service Policies and Privacy
 
-The Service shall be subject to the privacy policy for the Service available at https://inviterobot.com/privacy (the "Privacy Policy"), which are hereby expressly incorporated into the Terms of Service by reference. You agree to the use of Your data in accordance with InviteRobot' Privacy Policy.
+The Service shall be subject to the privacy policy for the Service available at https://inviterobot.com/privacy-policy/ (the "Privacy Policy"), which are hereby expressly incorporated into the Terms of Service by reference. You agree to the use of Your data in accordance with InviteRobot' Privacy Policy.
 
 ## Fees for Use of the Service
 
