@@ -2,11 +2,11 @@
 
 Last updated: 2016-08-25
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
+Your privacy is important to us. We have developed this Policy to help you understand how we collect, use, communicate and disclose personal information.
 
 ### Contacting InviteRobot
 
-Please feel free to contact us if you have any questions about InviteRobot’s Privacy Policy or practices. You may contact us at [hello@inviterobot.com](mailto:hello@inviterobot.com) or at our mailing address below:
+Feel free to contact us if you have any questions about InviteRobot’s Privacy Policy or practices. You may contact us at [hello@inviterobot.com](mailto:hello@inviterobot.com) or at our mailing address below:
 
 **InviteRobot**  
 Julien Marchand  
