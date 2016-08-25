@@ -8,9 +8,9 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 Please feel free to contact us if you have any questions about InviteRobot’s Privacy Policy or practices. You may contact us at [hello@inviterobot.com](mailto:hello@inviterobot.com) or at our mailing address below:
 
-**InviteRobot**
-Julien Marchand
-69 rue Suarez, 73200 Albertville FR
+**InviteRobot**  
+Julien Marchand  
+69 rue Suarez, 73200 Albertville, FRANCE
 
 ## The Gist
 

@@ -2,8 +2,8 @@
 
 Last updated: 2016-08-25
 
-**InviteRobot**
-Julien Marchand
+**InviteRobot**  
+Julien Marchand  
 69 rue Suarez, 73200 Albertville, FRANCE
 
 ## The Gist
@@ -26,7 +26,7 @@ You're welcome to adapt and use this document for Your own needs. If you make an
 
 ## Your Agreement with InviteRobot
 
-Julien Marchand ("InviteRobot" or "We") is a French corporation, having its registered office at 69, rue Suarez 73200 Albertville, in France. Your use of the InviteRobot Service is governed by these Terms, which are binding and form a contract between you and InviteRobot. The "Service" means the services InviteRobot makes available include our web sites (https://inviterobot.com), our blog, our widget, and any other software, sites, and services offered by InviteRobot in connection to any of those.
+Julien Marchand ("InviteRobot" or "We") is a French corporation, having its registered office at 69, rue Suarez, 73200 Albertville, in France. Your use of the InviteRobot Service is governed by these Terms, which are binding and form a contract between you and InviteRobot. The "Service" means the services InviteRobot makes available include our web sites (https://inviterobot.com), our blog, our widget, and any other software, sites, and services offered by InviteRobot in connection to any of those.
 
 In order to use the Service, You must first agree to the Terms. You understand and agree that InviteRobot will treat Your use of the Service as acceptance of the Terms from that point onwards.
 
