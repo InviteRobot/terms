@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: 2016-08-25
+Last updated: August 25, 2016. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
 
 **InviteRobot**  
 Julien Marchand  

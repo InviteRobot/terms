@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 2016-08-25
+Last updated: August 25, 2016. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
 
 Your privacy is important to us. We have developed this Policy to help you understand how we collect, use, communicate and disclose personal information.
 
