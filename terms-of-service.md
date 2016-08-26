@@ -32,7 +32,7 @@ In order to use the Service, You must first agree to the Terms. You understand a
 
 InviteRobot may make changes to the Terms from time to time. You may reject the changes by terminating Your account. You understand and agree that if You use the Service after the date on which the Terms have changed, InviteRobot will treat Your use as acceptance of the updated Terms.
 
-If you have any question about the Terms, please contact us at hello@inviterobot.com.
+If you have any question about the Terms, please contact us at [hello@inviterobot.com](mailto:hello@inviterobot.com).
 
 ## Your Account
 
@@ -66,7 +66,7 @@ The Service shall be subject to the privacy policy for the Service available at 
 
 ## Cancellation and Termination
 
-- You must cancel Your account via support request at hello@inviterobot.com using your account email. Any other emails or phone requests to cancel Your account will not be considered a cancellation.
+- You must cancel Your account via support request at [hello@inviterobot.com](mailto:hello@inviterobot.com) using your account email. Any other emails or phone requests to cancel Your account will not be considered a cancellation.
 - You will not receive any refunds if You cancel Your account.
 - If You cancel the Service before the end of Your current paid up month, Your cancellation will take effect immediately and You will not be charged again.
 - You agree that InviteRobot, in its sole discretion and for any or no reason, may terminate or suspend Your account. You agree that any termination of Your access to the Service may be without prior notice, and You agree that InviteRobot will not be liable to You or any third party for such termination.
@@ -122,7 +122,7 @@ InviteRobot respects the intellectual property of others and requires that our u
 - a statement by You, made under penalty of perjury, that the above information in Your notification is accurate and that You are the copyright owner or are authorized to act on the copyright owner's behalf; and
 - your physical or electronic signature.
 
-Our Designated Copyright Agent for notification of claimed infringement can be reached at InviteRobot, Julien Marchand, 69 rue Suarez, 73200 Albertville, FRANCE, hello@inviterobot.com.
+Our Designated Copyright Agent for notification of claimed infringement can be reached at InviteRobot, Julien Marchand, 69 rue Suarez, 73200 Albertville, FRANCE, [hello@inviterobot.com](mailto:hello@inviterobot.com).
 
 ## Links to Other Websites
 

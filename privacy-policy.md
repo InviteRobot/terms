@@ -61,7 +61,7 @@ This type of services allows InviteRobot to access personally-identifying inform
 
 InviteRobot may collect statistics about the behavior of visitors to and users of the Service. For instance, InviteRobot may monitor the most popular parts of the InviteRobot Site. InviteRobot may display this information in the aggregate publicly or provide it to others.
 
-In addition, InviteRobot may, from time to time, collect certain personal information from you, your use of the Services, and/or the users of your website, such as your memberbase growth, your revenue, and other metrics (your “Data”). InviteRobot may publish and display your Data in the aggregate to the public through our Site or on our blog, e.g. by publishing a report on average revenue on the Site. However, all Data is only used and published in the aggregate which means that any published Data will not identify you, your website, your company or your users, or link you to the published information in any way. If you wish to opt out of the publication of your Data, please contact us as hello@inviterobot.com.
+In addition, InviteRobot may, from time to time, collect certain personal information from you, your use of the Services, and/or the users of your website, such as your memberbase growth, your revenue, and other metrics (your “Data”). InviteRobot may publish and display your Data in the aggregate to the public through our Site or on our blog, e.g. by publishing a report on average revenue on the Site. However, all Data is only used and published in the aggregate which means that any published Data will not identify you, your website, your company or your users, or link you to the published information in any way. If you wish to opt out of the publication of your Data, please contact us as [hello@inviterobot.com](mailto:hello@inviterobot.com).
 
 InviteRobot does not disclose personally-identifying information other than as described below.
 
@@ -106,5 +106,5 @@ Les garanties suivantes ont été prises pour s’assurer d’un niveau de prote
 
 Conformément à la [loi « informatique et libertés » du 6 janvier 1978 modifiée](https://www.cnil.fr/fr/loi-78-17-du-6-janvier-1978-modifiee), vous disposez d’un [droit d’accès](https://www.cnil.fr/fr/le-droit-dacces) et [de rectification](https://www.cnil.fr/fr/le-droit-de-rectification) aux informations qui vous concernent. 
 
-Vous pouvez accéder aux informations vous concernant en vous adressant à hello@inviterobot.com.
+Vous pouvez accéder aux informations vous concernant en vous adressant à [hello@inviterobot.com](mailto:hello@inviterobot.com).
 
