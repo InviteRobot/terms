@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: August 25, 2016. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
+Last updated: September 14th, 2016. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
 
 **InviteRobot**  
 Julien Marchand  
@@ -26,9 +26,9 @@ You're welcome to adapt and use this document for Your own needs. If you make an
 
 ## Your Agreement with InviteRobot
 
-Julien Marchand ("InviteRobot" or "We") is a French corporation, having its registered office at 69, rue Suarez, 73200 Albertville, in France. Your use of the InviteRobot Service is governed by these Terms, which are binding and form a contract between you and InviteRobot. The "Service" means the services InviteRobot makes available include our web sites (https://inviterobot.com), our blog, our widget, and any other software, sites, and services offered by InviteRobot in connection to any of those.
+Julien Marchand ("InviteRobot" or "We") is a French corporation, having its registered office at 69, rue Suarez, 73200 Albertville, in France. Your access or use of the InviteRobot Service is governed by these Terms, which are binding and form a contract between you and InviteRobot. The "Service" means the services InviteRobot makes available and include our web sites (https://inviterobot.com), our blog, our widget, and any other software, sites, and services offered by InviteRobot in connection to any of those.
 
-In order to use the Service, You must first agree to the Terms. You understand and agree that InviteRobot will treat Your use of the Service as acceptance of the Terms from that point onwards.
+Please read these Terms carefully before accessing or using the Service. In order to access or use the Service, You must first agree to the Terms. You understand and agree that InviteRobot will treat Your access or use of the Service as acceptance of the Terms from that point onwards. If you do not agree to all the terms and conditions of the Terms, then you may not access or use the Service.
 
 InviteRobot may make changes to the Terms from time to time. You may reject the changes by terminating Your account. You understand and agree that if You use the Service after the date on which the Terms have changed, InviteRobot will treat Your use as acceptance of the updated Terms.
 
