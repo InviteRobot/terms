@@ -95,6 +95,8 @@ Les informations enregistrées sont réservées à l’usage du (ou des) service
 
 - Google (Google Inc.) – USA
 - Mailchimp (The Rocket Science Group, LLC) – USA
+- Mixpanel (Mixpanel, Inc.) - USA
+- Segment (Segment.io Inc.) - USA
 - Slack (Slack Technologies, Inc) – USA
 - Stripe (Stripe Inc.) – USA
 
