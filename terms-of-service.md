@@ -1,14 +1,14 @@
 # Terms of Service
 
-Last updated: September 14th, 2016. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
+Last updated: May 15th, 2017. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
 
 **InviteRobot**  
-Julien Marchand  
-69 rue Suarez, 73200 Albertville, FRANCE
+Romain Petit  
+15 rue Jules Ferry, 73000 Chambéry, FRANCE
 
 ## The Gist
 
-Julien Marchand ("InviteRobot" or "We") operates the InviteRobot service, which we hope You (the "Customer", "You", or "Your") use. If You use it, please use it responsibly. If You don't, we'll have to terminate Your account.
+Romain Petit ("InviteRobot" or "We") operates the InviteRobot service, which we hope You (the "Customer", "You", or "Your") use. If You use it, please use it responsibly. If You don't, we'll have to terminate Your account.
 
 For paid accounts, you'll be charged on a monthly basis. You can cancel anytime, but there are no refunds.
 
@@ -26,7 +26,7 @@ You're welcome to adapt and use this document for Your own needs. If you make an
 
 ## Your Agreement with InviteRobot
 
-Julien Marchand ("InviteRobot" or "We") is a French corporation, having its registered office at 69, rue Suarez, 73200 Albertville, in France. Your access or use of the InviteRobot Service is governed by these Terms, which are binding and form a contract between you and InviteRobot. The "Service" means the services InviteRobot makes available and include our web sites (https://inviterobot.com), our blog, our widget, and any other software, sites, and services offered by InviteRobot in connection to any of those.
+Romain Petit ("InviteRobot" or "We") is a French corporation, having its registered office at 15 rue Jules Ferry, 73000 Chambéry, in France. Your access or use of the InviteRobot Service is governed by these Terms, which are binding and form a contract between you and InviteRobot. The "Service" means the services InviteRobot makes available and include our web sites (https://inviterobot.com), our blog, our widget, and any other software, sites, and services offered by InviteRobot in connection to any of those.
 
 Please read these Terms carefully before accessing or using the Service. In order to access or use the Service, You must first agree to the Terms. You understand and agree that InviteRobot will treat Your access or use of the Service as acceptance of the Terms from that point onwards. If you do not agree to all the terms and conditions of the Terms, then you may not access or use the Service.
 
@@ -122,7 +122,7 @@ InviteRobot respects the intellectual property of others and requires that our u
 - a statement by You, made under penalty of perjury, that the above information in Your notification is accurate and that You are the copyright owner or are authorized to act on the copyright owner's behalf; and
 - your physical or electronic signature.
 
-Our Designated Copyright Agent for notification of claimed infringement can be reached at InviteRobot, Julien Marchand, 69 rue Suarez, 73200 Albertville, FRANCE, [hello@inviterobot.com](mailto:hello@inviterobot.com).
+Our Designated Copyright Agent for notification of claimed infringement can be reached at InviteRobot, Romain Petit, 15 rue Jules Ferry, 73000 Chambéry, FRANCE, [hello@inviterobot.com](mailto:hello@inviterobot.com).
 
 ## Links to Other Websites
 

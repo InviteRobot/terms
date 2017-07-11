@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: December 5th, 2016. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
+Last updated: May 15th, 2017. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
 
 Your privacy is important to us. We have developed this Policy to help you understand how we collect, use, communicate and disclose personal information.
 
@@ -9,8 +9,8 @@ Your privacy is important to us. We have developed this Policy to help you under
 Feel free to contact us if you have any questions about InviteRobot’s Privacy Policy or practices. You may contact us at [hello@inviterobot.com](mailto:hello@inviterobot.com) or at our mailing address below:
 
 **InviteRobot**  
-Julien Marchand  
-69 rue Suarez, 73200 Albertville, FRANCE
+Romain Petit  
+15 rue Jules Ferry, 73000 Chambéry, FRANCE
 
 ## The Gist
 
@@ -89,7 +89,7 @@ Although most changes are likely to be minor, InviteRobot may change its Privacy
 
 ### Données personnelles
 
-Julien Marchand ("InviteRobot") dispose de moyens informatiques destinés à l'exécution du Service tel que défini ci-dessus.
+Romain Petit ("InviteRobot") dispose de moyens informatiques destinés à l'exécution du Service tel que défini ci-dessus.
 
 Les informations enregistrées sont réservées à l’usage du (ou des) service(s) concerné(s) et ne peuvent être communiquées qu’aux destinataires suivants ; certains de ces destinataires sont situés en dehors de l’Union Européenne, et en particulier les destinataires suivants :
 
