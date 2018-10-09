@@ -1,10 +1,11 @@
 # Terms of Service
 
-Last updated: May 15th, 2017. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
+Last updated: Oct 09th, 2018. Previous versions and diffs are available [here](https://github.com/InviteRobot/terms).
 
 **InviteRobot**  
 Romain Petit  
-15 rue Jules Ferry, 73000 Chambéry, FRANCE
+11 Rue Moyrand, 
+38100 Grenoble, FRANCE
 
 ## The Gist
 
